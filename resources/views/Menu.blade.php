@@ -42,7 +42,7 @@
                 
             </ul>
               <div class="lesicons">
-              <a href="/Ajouter"><img src="{{ asset('/imgs/loging.png') }}" alt=""></a>
+              <a href="/authenification"><img src="{{ asset('/imgs/loging.png') }}" alt=""></a>
               <a href="#"><img src="{{ asset('/imgs/cart.png') }}" alt=""></a>
             </div>
           </div>

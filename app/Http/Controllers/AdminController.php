@@ -6,9 +6,9 @@ use Illuminate\Http\Request;
 
 class AdminController extends Controller
 {
-    public function __invoke()
+    public function index()
     {
         // Logique pour le tableau de bord de l'administrateur
-        return view('admin');
+        return view("admin/dashbord");
     }
 }

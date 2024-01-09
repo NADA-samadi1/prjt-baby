@@ -11,7 +11,6 @@
             flex-wrap: wrap;
             justify-content: space-around;
         }
-
         
         .card {
             width: 30%; 
