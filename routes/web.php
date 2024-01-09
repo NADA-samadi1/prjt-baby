@@ -56,8 +56,6 @@ Route::controller(UserController::class)->group(function () {
     
 });
 
-
-
 // Route::post('/register', [RegistrationController::class, 'register'])->name('register');
 // Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 // Route::post('/login', [AuthController::class, 'login']);
